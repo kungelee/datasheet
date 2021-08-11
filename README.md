@@ -44,12 +44,5 @@
 ## 导出：
 - 文件 - 导出为PDF
 
-```c
-#include <stdio.h>
-int main(void)
-{
-  printf("hello,world.\n");
-  return 0;
-}
-```
+
 
