@@ -1,4 +1,4 @@
-## 6COM Datasheet 文档格式规范
+## 6COM Datasheet 文档格式规范 Rev3.0
 
 ## 布局
 - **纸张大小**
