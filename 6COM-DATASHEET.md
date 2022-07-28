@@ -76,12 +76,12 @@
 
 
 ## 文件保存
-  - 保存类型:  Word 文档（*.docx)
+  - 保存类型： Word 文档（*.docx)
   - 兼容选项： 保留与 Word 早期版本的兼容性
   - 注意事项： **切记不要升级** （因为资料都是从doc转过来的，有些格式不兼容）
 
 ## 编辑软件
-  - 原始文件:  Word 文档（*.docx)， 必须用Microsoft Office 2016或以上版本，不要用WPS Office系列
+  - 原始文件： Word 文档（*.docx)， 必须用Microsoft Office 2016或以上版本，不要用WPS Office系列
   - 需要工具： Adobe Acrobat Pro DC
 
 ## 文尾
