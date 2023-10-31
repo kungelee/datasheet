@@ -201,3 +201,7 @@
 
 - 锁定Word文档的页眉页脚不被修改
 - https://jingyan.baidu.com/article/7e4409537395cd2fc0e2ef87.html
+
+- Word 的 “pdfmaker.officeaddin” 加载项出现问题解决方法
+- https://blog.csdn.net/weixin_46214236/article/details/124808254
+- 主要原因：与有道词典的office插件冲突
