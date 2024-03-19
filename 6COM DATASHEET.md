@@ -98,6 +98,7 @@
   - 针对不可拷贝的表格数据（如fs.com),可以使用 Google 表格插件：『Table Capture』 （https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcplhebcmeop）
   - 2023-6-25 10:05:38 **Uadate**
   - 表格文字不能居中（设为无间距，从1.5恢复到默认单倍行距） 2024-2-19 17:03:30
+  - 针对不是常用的，格式特殊的word文件 (复制模板页眉/页脚到目标文档，调整好位置好，制成新的页眉/页脚模块），将其应于其它当前文档（不用删除分栏符） 2024-3-19 17:29:01
 
 - **多行角注**
   - 段落设置：表格上方有简介说的,两端对齐表格, Arial 10.5, 多部行距 1.33pt 
