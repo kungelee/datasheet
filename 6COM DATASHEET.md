@@ -128,9 +128,16 @@
   - 注意事项： **切记不要升级** （因为资料都是从doc转过来的，有些格式不兼容）
   - 文档属性： **标题** 同文件首行描述 **主题** Datasheet **作者** 6COM
   - 文档元数据：
-    - 标题 6C-CFP-QSFP28-CVR Datasheet | 6COM INC
-    - 主题 6C-CFP-QSFP28-CVR Datasheet
-    - 作者 6COM INC
+   - 标题： {title} | 6COM
+   - 主题： {title} Datasheet
+   - 作者：6COM
+   - **例如**
+     - title: 400G OSFP SR4 850nm 50m MTP/MPO MMF Transceiver
+     - =>
+     - 标题：400G OSFP SR4 850nm 50m MTP/MPO MMF Transceiver | 6COM
+     - 主题：400G OSFP SR4 850nm 50m MTP/MPO MMF Transceiver Datasheet
+     - 作者：6COM
+
 
 ## 编辑软件
   - 原始文件： Word 文档（*.docx)， 必须用Microsoft Office 2016或以上版本，不要用WPS Office系列
