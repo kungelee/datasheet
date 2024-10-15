@@ -228,3 +228,5 @@
 
 - 更改用于边距度量的单位 (Ms Office)
 - https://support.microsoft.com/zh-cn/office/%E6%9B%B4%E6%94%B9%E7%94%A8%E4%BA%8E%E8%BE%B9%E8%B7%9D%E5%BA%A6%E9%87%8F%E7%9A%84%E5%8D%95%E4%BD%8D-c65a06a7-2555-45d2-8912-f33c7e6fa404#:~:text=%E5%8D%95%E5%87%BB%E2%80%9C%E6%96%87%E4%BB%B6%E2%80%9D%3E%E2%80%9C,%E9%80%89%E6%8B%A9%E2%80%9C%E7%A1%AE%E5%AE%9A%E2%80%9D%E3%80%82
+
+- 将默认打印设置为 Adobe，可以加快打印预览和 PDF 导出的速度。
