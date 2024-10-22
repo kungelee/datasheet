@@ -134,14 +134,14 @@
   - 文档属性： **标题** 同文件首行描述 **主题** Datasheet **作者** 6COM
   - 文档元数据：
    - 标题： {title} Datasheet | 6COM
-   - 主题： {title} Datasheet
-   - 作者：6COM
+   - 主题： {PN} Datasheet
+   - 作者：6COM 或制作人员人信息 (设置Word文档的默认作者信息: https://jingyan.baidu.com/article/49ad8bce68d1371935d8fa27.html)
    - **例如**
      - title: 400G OSFP SR4 850nm 50m MTP/MPO MMF Transceiver
      - =>
      - 标题：400G OSFP SR4 850nm 50m MTP/MPO MMF Transceiver Datasheet | 6COM
-     - 主题：400G OSFP SR4 850nm 50m MTP/MPO MMF Transceiver Datasheet
-     - 作者：6COM
+     - 主题：6C-OSFP-400G-SR4 Datasheet
+     - 作者：Ken Li
 
 
 ## 编辑软件
