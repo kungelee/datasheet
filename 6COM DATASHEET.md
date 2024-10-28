@@ -41,7 +41,7 @@
    - 防页眉样式被改动： 源文件：删除分栏符; 页眉顶端距离：0.2" 页眉底端距离：0.2", 然后再进行拷贝
  
 ## 页脚
-- **邮箱//**
+- **邮箱**
   - 文本： `sales@6comgiga.com`
   - 格式： 左对齐，字体， 字号，颜色 同页眉
 - **Rev3.0**
@@ -142,7 +142,7 @@
      - =>
      - 标题：400G OSFP SR4 850nm 50m MTP/MPO MMF Transceiver Datasheet | 6COM
      - 主题：6C-OSFP-400G-SR4 Datasheet
-     - 作者：Ken Li
+     - 作者：Kun Lee
 
 
 ## 编辑软件
