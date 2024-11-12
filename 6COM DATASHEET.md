@@ -122,6 +122,9 @@
 
 - **图片转Excel**
   -  在线转换网址:  https://web.baimiaoapp.com/image-to-excel
+- **如何快速清除Word中大量的无效样式**
+  -  样式(Ctrl+Shift+Alt+S) -> 样式管理 -> 导入/导出 -> 在左则删除不要的样式 (注意："页码、页眉、页脚”、“TOC1-10"、“标题1-9"等样式不要删除，此类样式涉及页码格式、分级标题、目录格式，应保留)
+  -  参考链接: https://blog.csdn.net/qq_45182665/article/details/130828799
 
 
 - **第三方表格格式控制**
