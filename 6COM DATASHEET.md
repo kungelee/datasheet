@@ -1,4 +1,4 @@
-## 6COM Datasheet 文档格式规范 Rev3.0
+## 6COM Datasheet 文档格式规范 Rev 3.1
 
 ## 设定模板样式
 1.  **设计范本**
